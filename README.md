@@ -1,7 +1,7 @@
-# vuemusic
+# vue-cloudmusic
 
-> 这是优树前端班的终实训项目
-
+> 这是优树前端的实训项目
+>需要运行网易云音乐的API接口获取数据　https://github.com/WytheChan/NeteaseCloudMusicApi
 ## Build Setup
 
 ``` bash
